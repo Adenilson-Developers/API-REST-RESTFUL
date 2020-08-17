@@ -9,7 +9,7 @@ Acronimo de Aplication Programming Interface ( Interface de Programação de Apl
 
 - Meio de campo entre as tecnologias.
 
--Intermediador para troca de informações.
+- Intermediador para troca de informações.
 
 ## REST
 
@@ -59,7 +59,7 @@ quais outras camadas o servidor está lidando, para que a
  
   ## RESTFUL
 
- RESTful, é a aplicação dos padrões REST.
+ - RESTful, é a aplicação dos padrões REST.
 
  ## BOAS PRÁTICAS
 
